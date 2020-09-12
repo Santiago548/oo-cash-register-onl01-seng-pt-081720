@@ -9,7 +9,7 @@ class CashRegister
     @total
   end
 
-  def add_item
+  def add_item(title, quanity=1)
 
   end
 end
